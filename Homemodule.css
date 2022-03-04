@@ -1,0 +1,29 @@
+
+.homeimage
+{
+    height: 220px;
+    width: 249px;
+    border-radius:8px 8px 0px 0px;
+}
+
+.homemodule{
+    margin: 100px;
+    height: 300px;
+    width :250px;
+    border: solid 1px rgb(0, 0, 0); 
+    border-radius: 8px;
+    box-shadow: 8px 8px 5px rgb(194, 193, 193);
+}
+.homemodule:hover{
+    box-shadow: 8px 8px 15px rgb(175, 175, 175);
+}
+
+.homemoduletext
+{
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 25px;
+    color: rgb(143, 143, 143);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
